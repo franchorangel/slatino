@@ -1,0 +1,219 @@
+#contenido #titulo{
+    height:995px;
+}
+
+#text-cont{
+    float:left;
+    width:685px;
+    height:auto;
+    background:rgb(110,110,110);
+    border-top-right-radius:10px;
+    border-bottom-right-radius:10px;
+    padding:5px;
+}
+
+#text-cont h1{
+    font-family:jfajardo;
+    font-size:80px;
+    line-height:60px;
+    color:rgb(255,139,0);
+    font-weight:normal;
+    text-shadow:3px 3px 6px rgb(70,70,70);
+    padding-top:10px;
+    text-align:center;
+}
+
+#text-cont > div{
+    position:relative;
+    float:left;
+    height:300px;
+    width:310px;
+    border-radius:10px;
+    border:solid 5px rgb(255,139,0);
+    padding:10px;
+    background:rgb(74,74,73) url(../images/mancha-op.png);
+    font-family:Arial;
+}
+
+#text-cont > div a{
+    text-decoration:none;
+}
+
+#text-cont > div a:hover h2{
+    color:white;
+}
+
+#text-cont p{
+    padding-bottom:15px;
+    color:white;
+    font-size:14px;
+}
+
+#text-cont #internacionales{
+    margin-left:5px;
+}
+
+#text-cont > div{
+    margin-top:5px;
+    height:200px;
+    width:675px;
+    padding:0;
+}
+
+#text-cont #feed iframe{
+    width:675px !important;
+
+}
+
+#contenido #text-cont #solar-latino{
+    width:655px;
+    margin-bottom:5px;
+}
+
+#text-cont #casinoenescena{
+  margin-top:10px;
+  background: rgb(55,55,83); 
+  height: auto !important;
+  padding-bottom: 15px;
+}
+
+#casinoenescena #header-casino{
+    position: relative;
+    width: 100%;
+    height: 115px;
+    background: url('../images/fondo-casino.png') center center;
+    border: none;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    margin: 0;
+    letter-spacing: 1px;
+    box-shadow: 0px 2px 2px -2px black;
+}
+
+#casinoenescena #header-casino h1{
+    font-family: 'bebasRegular';
+    color: rgb(140,200,55);
+    font-size: 3rem;
+    text-shadow: 0px 0px 7px rgba(150, 190, 50, 0.7);
+}
+
+#casinoenescena h3{
+    font-family: 'bebasRegular';
+    color: rgb(240,240,35);
+    font-size: 1.5rem;
+    text-align: center;
+    font-weight: 100;
+}
+
+#casinoenescena #header-casino .logo{
+    position: absolute;
+    background: url('../images/logo-casino.png') center center no-repeat;
+    top: 5px;
+    left: 25px;
+    width: 100px;
+    height: 100px;
+}
+
+#casinoenescena #header-casino .logo:nth-child(2){
+    left: 550px;
+}
+
+#casino-contenido p{
+    font-family: 'sourceSansRegular';
+    text-align: justify;
+    padding: 0px 30px;
+    padding-top: 10px;
+}
+
+#casino-contenido h3{
+    padding: 10px;
+    letter-spacing: 1px;
+    font-weight: 100;
+    background: url('../images/fondo-casino.png') center center;
+    margin-top: 15px;
+    box-shadow: 0px 2px 2px -2px black;
+}
+
+#casino-contenido .tabla{
+    padding: 20px 40px;
+    color: white;
+}
+
+.tabla .row{
+    clear: both;
+    height: 120px;
+}
+
+.tabla .row-titulos, .tabla .row-titulos .cell{
+    height: 32px;
+}
+
+.tabla .row-titulos .cell{
+    float: left;
+    text-align: center;
+    font-family: 'sourceSansRegular';
+    border-top: solid 2px rgb(140,200,55);
+}
+
+.row .cell{
+    width: 49%;
+    height: 120px;
+    float: left;
+    border: solid 2px rgb(140,200,55);
+    border-top: none;
+}
+
+.tabla .row .cell p{
+    padding: 0  !important;
+}
+
+.tabla h4{
+    font-family: 'sourceSansRegular';
+    text-align: center;
+}
+
+.tabla .row .cell-region{
+    line-height: 120px;
+}
+
+.tabla .cell.cell-info{
+    width: 35%;
+    padding: 20px 7%;
+    height: 80px;
+    border-left: none;
+}
+
+#descargables{
+    width: 618px;
+    height: 70px;
+    padding-left: 40px;
+}
+
+#descargables .boton{
+    float: left;
+    width: 23%;
+    height: 45px;
+    margin: 0 21px;
+    padding: 1%;
+    border-radius: 5px;
+    background: #12657B;
+    color: rgb(240,240,35);
+    box-shadow: 1px 2px 2px -2px black;
+}
+
+#descargables .boton h2{
+    font-family: 'bebasRegular';
+    font-size: 1rem;
+    text-align: center;
+    letter-spacing: 2px;
+    font-weight: 100;
+    padding-top: 3px;
+}
+
+#descargables > a:nth-child(1) > div:nth-child(1) > h2:nth-child(1){
+    padding-top: 13px;
+}
+
+#descargables .boton:hover{
+    cursor: pointer;
+}

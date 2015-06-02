@@ -1,0 +1,48 @@
+#text-cont{
+    float:left;
+    width:680px;
+    height:540px;
+    background:rgb(110,110,110);
+    border-top-right-radius:10px; 
+    border-bottom-right-radius:10px; 
+    padding:10px;
+}
+
+#text-cont div h1{
+    font-family:jfajardo;
+    font-size:80px;
+    line-height:60px;
+    color:rgb(255,242,0);
+    font-weight:normal;
+    text-shadow:3px 3px 6px rgb(70,70,70);
+}
+
+#text-cont #mapa{
+    float:left;
+    height:530px;
+    width:330px;
+    border-radius:10px;
+    border:solid 5px rgb(255,242,0);
+}
+
+#text-cont #info{
+    float:right;
+    width:320px;
+    height:500px;
+    font-size:14px;
+    line-height:19px;
+    font-family:Arial;
+}
+
+#text-cont h2{
+    font-weight:normal;
+    color:rgb(255,242,0);
+}
+
+#text-cont p{
+    padding-bottom:15px;
+    color:white;
+}
+
+#text-cont a{text-decoration:none;}
+#text-cont a:hover{text-decoration:underline;color:white;}

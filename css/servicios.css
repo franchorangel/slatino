@@ -1,0 +1,120 @@
+#text-cont{
+    float:left;
+    width:700px;
+    height:560px;
+    background:rgb(110,110,110);
+    border-top-right-radius:10px; 
+    border-bottom-right-radius:10px;
+    overflow:hidden; 
+    position:relative;
+}
+
+#text-cont .div-servicios{
+    height:262px;
+    width:292px;
+    padding:0 20px;
+    color:white;
+    font-family:arial;
+    font-size:14px;
+    line-height:15px;
+    border: 5px solid rgb(0,174,239);
+    position:absolute;
+    border-radius:10px;
+    margin:5px 0 0 5px;
+    background:rgb(74,74,73) url(../images/mancha-op.png);
+}
+
+#text-cont .div-servicios h1{
+    font-family:jfajardo;
+    font-size:71px;
+    line-height:50px;
+    color:rgb(0,174,239);
+    font-weight:normal;
+    text-shadow:3px 3px 6px rgb(70,70,70);
+    margin-top:15px;
+    text-align:center;
+}
+
+#text-cont .div-servicios p{
+    margin-bottom:5px;
+    margin-top:10px;
+}
+
+#text-cont .div-servicios:nth-child(1){
+    background-position:center top;
+    top:0px;
+    left:0px;
+    z-index:10;
+    overflow:hidden;
+}
+
+#text-cont .div-servicios:nth-child(1) p{
+    width:190px;
+}
+
+#text-cont .div-servicios:nth-child(1) img{
+    position:absolute;
+    top:65px;
+    left:210px;
+}
+
+#text-cont .div-servicios:nth-child(1) .salon-amarillo{
+    top:160px;
+}
+
+#text-cont .div-servicios:nth-child(1) h2{
+    position:absolute;
+    width:300px;
+    display:block;
+    top:100px;
+    left:350px;
+    font-family:jfajardo;
+    font-weight:normal;
+    font-size:55px;
+    text-shadow:3px 3px 6px rgb(70,70,70);
+    color:rgb(0,174,239);
+}
+
+#text-cont .div-servicios:nth-child(1) ul{
+    position:absolute;
+    top:140px;
+    left:400px;
+}
+
+#text-cont .div-servicios:nth-child(2){
+    background-position:left bottom;
+    top:0px;
+    right:6px;
+}
+
+#text-cont .div-servicios:nth-child(2) a.cboxElement{
+    margin-right: 15px;
+}
+
+#text-cont .div-servicios:nth-child(3){
+    background-position:right bottom;
+    left:0px;
+    bottom:5px;
+}
+
+#text-cont .div-servicios:nth-child(3) p:nth-child(2){margin-top:5px;}
+
+#text-cont .div-servicios:nth-child(4){
+    background-position:left top;
+    right:6px;
+    bottom:5px;
+}
+
+#text-cont .div-servicios:nth-child(4) .salon{
+    width: 80px;
+    height: auto;
+    float: left;
+}
+
+#text-cont .div-servicios:nth-child(4) a.cboxElement{
+    position: absolute;
+    bottom: 15px;
+    right: 40px;
+}
+
+#cboxCurrent{display: none !important;}

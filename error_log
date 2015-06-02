@@ -1,0 +1,2 @@
+[26-Feb-2015 20:46:22 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/solar/public_html/wp-content/themes/solarlatino/index.php on line 1
+[16-Mar-2015 17:49:21 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/solar/public_html/wp-content/themes/solarlatino/index.php on line 1

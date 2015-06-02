@@ -1,0 +1,53 @@
+
+#secciones{
+    margin:auto;
+    width:935px;
+}
+
+.acordeon{
+    width:153px;
+    height:570px;
+    margin-left:5px;
+    transition:all 0.3s ease-in;
+}
+
+#nosotros{
+    background:url(../images/nosotros-cerrado.png) no-repeat;
+    float:left; 
+    margin-left:0 !important;
+}
+
+.nosotros{
+    background:url(../images/nosotros-abierto.png) !important;
+    width:460px;
+}
+
+#servicios{
+    background: url(../images/servicios-cerrado.png) no-repeat;
+    float:left;
+}
+
+.servicios{
+    background:url(../images/servicios-abierto.png) !important;
+    width:460px;
+}
+
+#noticias{
+    background: url(../images/noticias-cerrado.png) no-repeat;
+    float:left; 
+}
+
+.noticias{
+    background:url(../images/noticias-abierto.png) !important;
+    width:460px;
+}
+
+#contacto{
+    background: url(../images/contacto-cerrado.png) no-repeat;
+    float:left; 
+}
+
+.contacto{
+    background:url(../images/contacto-abierto.png) !important;
+    width:460px;
+}

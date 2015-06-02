@@ -1,0 +1,42 @@
+#text-cont{
+    float:left;
+    width:660px;
+    background:rgb(110,110,110);
+    border-top-right-radius:10px; 
+    border-bottom-right-radius:10px; 
+    padding:20px;
+    padding-bottom:0;
+}
+
+#text-cont div h1{
+    font-family:jfajardo;
+    font-size:80px;
+    line-height:60px;
+    color:rgb(147,255,0);
+    font-weight:normal;
+    text-shadow:3px 3px 6px rgb(70,70,70);
+}
+
+#text-cont div{
+    height:fit-content;
+    color:white;
+    font-size:14px;
+    line-height:19px;
+    font-family:Arial;
+    padding-bottom:10px;
+}
+
+#text-cont iframe{
+    margin: auto;
+}
+
+#text-cont div h2{
+    padding: 5px 0;
+    text-align: center;
+}
+
+#text-cont p{
+    padding-bottom:15px;
+}
+
+.salon-naranja, .salon-amarillo{cursor: pointer;}
