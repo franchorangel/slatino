@@ -47,10 +47,10 @@
                     <h4>Bs. 13.500 (sin iva)</h4>
                 </div>
                 <div class="cell cell-info top">
-                    <p>-Para 50 invitados</p>
-                    <p>-Sistema básico de Audio y Dj</p>
-                    <p>-Efectos básicos de iluminación para pista de baile</p>
-                    <p>-5 horas de celebración</p>
+                    <p>- Para 50 invitados</p>
+                    <p>- Sistema básico de Audio y Dj</p>
+                    <p>- Efectos básicos de iluminación para pista de baile</p>
+                    <p>- 5 horas de celebración</p>
                 </div>
             </div>
             <div class="row">
@@ -59,12 +59,12 @@
                     <h4>Bs. 19.500 (sin iva)</h4>
                 </div>
                 <div class="cell cell-info">
-                    <p>-Para 50 invitados</p>
-                    <p>-Sistema básico de Audio y Dj</p>
-                    <p>-Efectos completos de iluminación para pista de baile. Incluye iluminacion robotica</p>
-                    <p>-Máquina de humo</p>
-                    <p>-Iluminación LED decorativa para locación</p>
-                    <p>-6 horas de celebración</p>
+                    <p>- Para 50 invitados</p>
+                    <p>- Sistema básico de Audio y Dj</p>
+                    <p>- Efectos completos de iluminación para pista de baile. Incluye iluminación robótica</p>
+                    <p>- Máquina de humo</p>
+                    <p>- Iluminación LED decorativa para locación</p>
+                    <p>- 6 horas de celebración</p>
                 </div>
             </div>
             <div class="row">
@@ -73,13 +73,13 @@
                     <h4>Bs. 29.500 (sin iva)</h4>
                 </div>
                 <div class="cell cell-info">
-                    <p>-Para 100 invitados</p>
-                    <p>-Sistema de Audio Boost y Dj</p>
-                    <p>-Efectos completos de iluminación para pista de baile</p>
-                    <p>-Máquina de humo</p>
-                    <p>-Iluminación LED decorativa para locación</p>
-                    <p>-Jelly Shots para hora loca</p>
-                    <p>-6 horas de celebración</p>
+                    <p>- Para 100 invitados</p>
+                    <p>- Sistema de Audio Boost y Dj</p>
+                    <p>- Efectos completos de iluminación para pista de baile. Incluye iluminación robótica</p>
+                    <p>- Máquina de humo</p>
+                    <p>- Iluminación LED decorativa para locación</p>
+                    <p>- Jelly Shots para hora loca</p>
+                    <p>- 6 horas de celebración</p>
                 </div>
             </div>
             <div class="row">

@@ -27,7 +27,6 @@
 #texto-sl p{
     padding: 20px;
     padding-bottom: 0;
-    text-align: justify;
 }
 
 #texto-sl #wrap-ul{
@@ -89,7 +88,7 @@ line-height: 1.5;
 
 .tabla .row{
     clear: both;
-    height: 280px;
+    height: 240px;
     display: table-row;
 }
 

@@ -79,10 +79,61 @@
         </p>
         <h3>RONDA CLASIFICATORIA</h3>
         <p>
-          Esta primera fase de la competencia se realizó en las principales regiones del país, donde las academias compitieron para optar por un puesto en la Gran Final. Esta etapa clasificatoria consistió en baile social, es decir no coreográfico, siguiendo los lineamientos de cada categoría especificados en el reglamento.
+            Esta primera fase de la competencia se realiza en las principales regiones del país, donde las academias compiten para 
+            optar por un puesto en la Gran Final. Esta etapa clasificatoria consta de baile social, es decir no coreográfico, 
+            siguiendo los lineamentos de cada categoría especificados en el reglamento. A continuación se encuentra la información 
+            en detalle por región:
         </p>
-        <p> Vale destacar, que por primera vez en Venezuela se realizó la Ronda Clasificatoria con orquestas cubanas en vivo, poniendo a todos los asistentes a bailar, Región Central con Tania Pantoja y Charanga Latina, Región Capital con los 4 y Región Oriental con Tania Pantoja y Maykel Blanco. A continuación se encuentran el listado de grupos y parejas clasificados:
-        </p>
+        <div class="tabla">
+            <div class="row row-titulos">
+                <div class="cell">
+                    <h2>Región</h2>
+                </div>
+                <div class="cell" style="border-left: none;">
+                    <h2>Información</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="cell cell-region">
+                    <h4>Caracas</h4>
+                </div>
+                <div class="cell cell-info">
+                    <p>Fecha: 21 y 22 de marzo.</p>
+                    <p>Lugar: Anfiteatro El Hatillo</p>
+                    <p>Período de inscripciones: Del 5 de febrero al 8 de marzo</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="cell cell-region">
+                    <h4>Central</h4>
+                </div>
+                <div class="cell cell-info" style="padding-top: 13px; padding-bottom: 27px;">
+                    <p>Fecha: 8 de marzo.</p>
+                    <p>Lugar: Cámara de Construcción, Maracay</p>
+                    <p>Período de inscripciones: Del 5 de febrero al 1 de marzo</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="cell cell-region">
+                    <h4>Occidental</h4>
+                </div>
+                <div class="cell cell-info">
+                    <p>Fecha: 25 y 26 de abril.</p>
+                    <p>Lugar: Por definir</p>
+                    <p>Período de inscripciones: Del 16 de marzo al 18 de abril</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="cell cell-region">
+                    <h4>Oriental</h4>
+                </div>
+                <div class="cell cell-info">
+                    <p>Fecha: 2 de mayo.</p>
+                    <p>Lugar: Por definir</p>
+                    <p>Período de inscripciones: Del 30 de marzo al 25 de abril</p>
+                </div>
+            </div>
+        </div>
         <div id="descargables">
             <a href="<?php bloginfo('template_directory'); ?>/archivos/Reglamento%20Eliminatorias%20CEE%202015.pdf" target="_blank">
             <div class="boton">
