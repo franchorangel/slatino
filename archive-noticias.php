@@ -130,19 +130,24 @@
             </div>
         </div>
        <div id="descargables">
+            <a href="<?php bloginfo('template_directory'); ?>/archivos/Planilla%20Grupos%20Performance%20Ronda%20Final.xls">
+            <div class="boton" style="height:60px;">
+                <h2>Planilla de Inscripción Grupos Performance</h2>
+            </div>
+            </a>
+            <a href="<?php bloginfo('template_directory'); ?>/archivos/Planilla%20Grupos%20Ronda%20Final.xls">
+            <div class="boton" style="height:52px;padding-top:15px;">
+                <h2>Planilla de Inscripción Grupos</h2>
+            </div>
+            </a>
+            <a href="<?php bloginfo('template_directory'); ?>/archivos/Planilla%20Parejas%20Ronda%20Final.xls">
+            <div class="boton" style="height:52px;padding-top:15px;">
+                <h2>Planilla de Inscripción Parejas</h2>
+            </div>
+            </a>
             <a href="<?php bloginfo('template_directory'); ?>/archivos/Reglamento%20Eliminatorias%20CEE%202015.pdf" target="_blank">
-            <div class="boton">
+            <div class="boton" style="height:40px; padding-top:20px; margin-left:217px;">
                 <h2>Reglamento</h2>
-            </div>
-            </a>
-            <a href="<?php bloginfo('template_directory'); ?>/archivos/Planilla%20inscripcion%20Parejas%20Clasificatorio.xls">
-            <div class="boton">
-                <h2>Planilla de Inscripción Pareja</h2>
-            </div>
-            </a>
-            <a href="<?php bloginfo('template_directory'); ?>/archivos/Planilla%20inscripcion%20Grupos%20Clasificatorio.xls">
-            <div class="boton">
-                <h2>Planilla de Inscripción Grupo</h2>
             </div>
             </a>
         </div>
