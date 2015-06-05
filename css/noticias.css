@@ -126,6 +126,7 @@
 }
 
 #casino-contenido h3{
+    clear:both;
     padding: 10px;
     letter-spacing: 1px;
     font-weight: 100;
@@ -194,6 +195,7 @@
     width: 23%;
     height: 45px;
     margin: 0 21px;
+    margin-bottom:21px;
     padding: 1%;
     border-radius: 5px;
     background: #12657B;
@@ -208,10 +210,6 @@
     letter-spacing: 2px;
     font-weight: 100;
     padding-top: 3px;
-}
-
-#descargables > a:nth-child(1) > div:nth-child(1) > h2:nth-child(1){
-    padding-top: 13px;
 }
 
 #descargables .boton:hover{

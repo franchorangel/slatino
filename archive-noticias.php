@@ -82,28 +82,32 @@
           Esta primera fase de la competencia se realizó en las principales regiones del país, donde las academias compitieron para optar por un puesto en la Gran Final. Esta etapa clasificatoria consistió en baile social, es decir no coreográfico, siguiendo los lineamientos de cada categoría especificados en el reglamento.
         </p>
         <p> Vale destacar, que por primera vez en Venezuela se realizó la Ronda Clasificatoria con orquestas cubanas en vivo, poniendo a todos los asistentes a bailar, Región Central con Tania Pantoja y Charanga Latina, Región Capital con los 4 y Región Oriental con Tania Pantoja y Maykel Blanco. A continuación se encuentran el listado de grupos y parejas clasificados:
-        </p>
+        </p><br />
         <div id="descargables">
-            <a href="<?php bloginfo('template_directory'); ?>/archivos/Reglamento%20Eliminatorias%20CEE%202015.pdf" target="_blank">
+            <a href="<?php bloginfo('template_directory'); ?>/archivos/Clasificacion%20Final%20Grupo%20Nuevo%20Talento.pdf" target="_blank">
             <div class="boton">
-                <h2>Reglamento</h2>
+                <h2>Grupo Nuevo Talento</h2>
             </div>
             </a>
-            <a href="<?php bloginfo('template_directory'); ?>/archivos/Planilla%20inscripcion%20Parejas%20Clasificatorio.xls">
+            <a href="<?php bloginfo('template_directory'); ?>/archivos/Clasificacion%20Final%20Pareja%20Libre.pdf" target="_blank">
             <div class="boton">
-                <h2>Planilla de Inscripción Pareja</h2>
+                <h2 style="padding-top:13px;">Pareja Libre</h2>
             </div>
             </a>
-            <a href="<?php bloginfo('template_directory'); ?>/archivos/Planilla%20inscripcion%20Grupos%20Clasificatorio.xls">
+            <a href="<?php bloginfo('template_directory'); ?>/archivos/Clasificacion%20Final%20Pareja%20Novel.pdf" target="_blank">
             <div class="boton">
-                <h2>Planilla de Inscripción Grupo</h2>
+                <h2 style="padding-top:13px;">Pareja Novel</h2>
+            </div>
+            </a>
+            <a href="<?php bloginfo('template_directory'); ?>/archivos/Clasificacion%20Final%20Pareja%20Nuevo%20Talento.pdf" target="_blank">
+            <div class="boton" style="margin-left:217px;">
+                <h2>Pareja Nuevo Talento</h2>
             </div>
             </a>
         </div>
         <h3>RONDA FINAL</h3>
         <p>
-            Al culminar la primera ronda se obtiene la tabla de academias clasificadas a nivel nacional, las cuales 
-            competirán posteriormente en la Gran Final. Más información próximamente.
+          Esta es la etapa decisiva, en donde se medirán las principales academias de salsa casino del país en las diferentes categorías. Entre las categorías nuevas tenemos Estilo Chicas, Estilo Hombres y Grupo Cuban Show, los coreógrafos de las academias están trabajando arduamente para romper paradigmas y darle paso a nuevas categorías. Vontaremos con un panel de jueces internacional y nacional, encargados de escoger a los mejores trabajos coreográficos de la jornada. Los asistentes al evento también podrán disfrutar de dos Fiestas Sociales con agrupaciones directamente desde La Habana, Elito Revé y su Charangón y NG La Banda., además de la participación de Dj Timbao y otros Dj's invitados de las diferentes regiones del país. Extendemos la invitación a todas las academias y salseros del país, no dejes de disfrutar dos días llenos de mucho talento, shows, orquestas y baile.
         </p>
         <div class="tabla">
             <div class="row row-titulos">
@@ -119,10 +123,28 @@
                     <h4>Gran Caracas</h4>
                 </div>
                 <div class="cell cell-info">
-                    <p style="margin-top: 15px;">Fecha: 20 y 21 de junio.</p>
-                    <p>Lugar: Por definir</p>
+                    <p>Fecha: 4 y 5 de julio.</p>
+                    <p>Lugar: Monasterio San Charbel, Caracas</p>
+                    <p>Fiesta Social: Elito Revé y su Charangón y NG La Banda</p>
                 </div>
             </div>
+        </div>
+       <div id="descargables">
+            <a href="<?php bloginfo('template_directory'); ?>/archivos/Reglamento%20Eliminatorias%20CEE%202015.pdf" target="_blank">
+            <div class="boton">
+                <h2>Reglamento</h2>
+            </div>
+            </a>
+            <a href="<?php bloginfo('template_directory'); ?>/archivos/Planilla%20inscripcion%20Parejas%20Clasificatorio.xls">
+            <div class="boton">
+                <h2>Planilla de Inscripción Pareja</h2>
+            </div>
+            </a>
+            <a href="<?php bloginfo('template_directory'); ?>/archivos/Planilla%20inscripcion%20Grupos%20Clasificatorio.xls">
+            <div class="boton">
+                <h2>Planilla de Inscripción Grupo</h2>
+            </div>
+            </a>
         </div>
         <h3>INFORMACION DE CONTACTO</h3>
         <p>
